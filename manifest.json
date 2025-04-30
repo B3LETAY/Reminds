@@ -1,0 +1,8 @@
+{
+  "name": "Reminds",
+  "version": "1.5",
+  "description": "Простое приложение для ваших напоминаний",
+  "entry": "Reminds.exe",
+  "download": "https://github.com/B3LETAY/Reminds/releases/download/v1.5/Reminds.zip",
+  "icon": "icon.ico"
+}
